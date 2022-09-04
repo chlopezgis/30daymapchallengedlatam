@@ -10,4 +10,4 @@
 
 ## Día 3. Polígonos
 
-<img src="./img/3_Polígonos.png" height="800">
+<img src="./img/3_Polígonos.png" height="70%" width="70%">

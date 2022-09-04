@@ -1,4 +1,4 @@
-# 30daymapchallengedlatam
+# #30DayMapChallengeLatam
 
 ## Día 1. Puntos
 

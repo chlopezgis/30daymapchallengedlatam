@@ -15,3 +15,7 @@
 ## Día 4. Hexágonos
 
 <img src="./img/4_Hexágonos.png" height="70%" width="70%">
+
+## Día 5. OpenStreetMap
+
+<img src="./img/5_OSM.png" height="70%" width="70%">

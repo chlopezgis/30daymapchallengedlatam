@@ -23,3 +23,7 @@
 ## Día 6. Azul
 
 <img src="./img/6_Azul.png" height="80%" width="80%">
+
+## Día 7. Verde
+
+<img src="./img/7_verde.png" height="80%" width="80%">

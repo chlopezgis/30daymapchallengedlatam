@@ -27,3 +27,7 @@
 ## Día 7. Verde
 
 <img src="./img/7_Verde.png" height="80%" width="80%">
+
+## Día 8. Verde
+
+<img src="./img/8_Rojo.png" height="80%" width="80%">

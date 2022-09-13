@@ -31,3 +31,7 @@
 ## Día 8. Rojo
 
 <img src="./img/8_Rojo.png" height="80%" width="80%">
+
+## Día 9. Monocromático
+
+<img src="./img/9_Monocromatico.png" height="80%" width="80%">
